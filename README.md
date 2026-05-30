@@ -39,6 +39,18 @@
 
 ## 🚀 Featured Projects
 
+### 污水处理厂三维可视化
+
+基于 Vue 3、Vite、Three.js 和 Ant Design Vue 的三维可视化项目，围绕污水处理厂厂区模型、巡检人员、植被、环境贴图、水面材质和业务看板构建交互式前端展示界面。
+
+- Three.js 三维厂区场景、模型加载、标签和水面效果
+- 首页数据看板、工艺辅助、历史数据等业务视图
+- Vite 构建与 Netlify 部署配置
+
+Repo: [sewage-treatment-plant](https://github.com/cfy1126/sewage-treatment-plant)
+
+---
+
 ### 智慧水务 / 低代码开发平台前端
 
 企业级低代码平台前端项目，支持通过可视化页面、拖拉拽配置、表单设计、流程配置和数据看板搭建业务应用。
